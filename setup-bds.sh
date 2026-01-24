@@ -20,6 +20,5 @@ send \"\n\"
 interact
 "
 mv ./out/plugins/trapdoor ./out/plugins/trapdoor-0.42.1-1.20.30.02-5293ed6.dll  ./out/plugins/trapdoor-0.42.1-1.20.30.02-5293ed6.pdb plugins
-wine installer.exe
 wine bedrock_server_mod.exe
 bash
